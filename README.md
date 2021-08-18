@@ -19,7 +19,7 @@ I'm a senior at Claremont McKenna College studying CS (at Harvey Mudd) and Econo
 ### Links
 🌱 Check out [my hackathon projects here!](https://devpost.com/elizabethsong65?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-🌐 [Personal portfolio](https://elizabethsong.mystrikingly.com). Coding a new one [in progress here](http://elizabethsong.me)
+🌐 Personal portfolio [here](https://elizabethsong.mystrikingly.com). Coding a new one [in progress here](http://elizabethsong.me)
 
 📫 Email me at esong22@cmc.edu
 
