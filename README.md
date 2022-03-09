@@ -1,6 +1,6 @@
 ### Hey, I'm Elizabeth 👋👩
 ### 💬 Ask me about... 
-- The new app I'm coding for Asian-Americans (including South/Southeast Asians) and immigrants 🏻‍💻
+This new app I'm coding for Asian-Americans (including South/Southeast Asians) and immigrants💻
 
 ### 📫 How to reach me: songelizabeth21@gmail.com
 
