@@ -1,4 +1,4 @@
-### Hey, I'm Elizabeth 👋👩🏻‍💻
+### Ask me about the new app I'm coding for Asian-Americans (including South/Southeast Asians) and immigrants 👋👩🏻‍💻
 
 <!--
 **elizabethsong/elizabethsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
