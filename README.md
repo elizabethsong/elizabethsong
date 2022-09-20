@@ -2,8 +2,6 @@
 ### 💬 Ask me about... 
 This new app I'm coding for Asian-Americans (including South/Southeast Asians) and immigrants💻
 
-### 📫 How to reach me: songelizabeth21@gmail.com
-
 <!--
 **elizabethsong/elizabethsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,5 +24,5 @@ I'm a senior at Claremont McKenna College studying CS (at Harvey Mudd) and Econo
 
 🌐 Personal portfolio [here](https://elizabethsong.mystrikingly.com). Coding a new one [in progress here](http://elizabethsong.me)
 
-📫 Email me at esong22@cmc.edu
+📫 Email me at songelizabeth21@gmail.com
 
