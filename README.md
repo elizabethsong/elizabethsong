@@ -1,4 +1,4 @@
-### Hey, I'm Elizabeth 👋👩
+### Hey, I'm Elizabeth 👋
 
 <!--
 **elizabethsong/elizabethsong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
